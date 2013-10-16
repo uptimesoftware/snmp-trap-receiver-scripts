@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * SNMP Trap Receiver Scripts 1.1 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* SNMP Trap Receiver Scripts 1.1 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -44,5 +44,8 @@ None; no agent required
 
 
 ### Languages Used
-* VBScript* Shell/Batch
+
+* VBScript
+
+* Shell/Batch
 
