@@ -1,25 +1,48 @@
-# SOAP Monitor
-## Tags : plugin   networking   SOAP  
+# SNMP Trap Receiver Scripts
 
-## Category: plugin
+See http://uptimesoftware.github.io for more information.
 
-##Version Compatibility<br/>Module Name</th><th>up.time Monitoring Station Version</th>
+### Tags 
+ plugin   snmp   networking  
+
+### Category
+
+{ page.category }}
+
+### Version Compatibility
 
 
   
-    * SOAP Monitor 1.0 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+    * SNMP Trap Receiver Scripts 1.1 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
-### Description: This advanced HTTP(S) monitor is made to handle any type of web service / SOAP / HTTP(S) interfaces. You can customize the HTTP(S) header as well as the body of the (POST) request.
+### Description
+Collection of scripts to be used with Trap Receiver to integrate SNMP traps into up.time. Please refer to the knowledge base article [Integrate SNMP Traps Into up.time](http://support.uptimesoftware.com/article.php?id=585) for more information.
 
-### Supported Monitoring Stations: 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
-### Supported Agents: None; no agent required
-### Installation Notes: <p><a href="https://github.com/uptimesoftware/uptime-plugin-manager">Install using the up.time Plugin Manager</a></p>
 
-### Dependencies: <p>n/a</p>
+### Supported Monitoring Stations
 
-### Input Variables: 
-### Output Variables: 
-### Languages Used: * Shell/Batch* PHP* Java
+7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+
+### Supported Agents
+None; no agent required
+
+### Installation Notes
+<p>These scripts are to be used in conjunction with SNMP Trap Receiver.</p>
+
+
+### Dependencies
+<p>SNMP Trap Receiver</p>
+
+
+### Input Variables
+
+
+### Output Variables
+
+
+
+### Languages Used
+* VBScript* Shell/Batch
 
