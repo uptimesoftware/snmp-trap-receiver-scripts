@@ -11,7 +11,7 @@ my $now_string = localtime;
 my $debug = 0;
 
 # set log file name
-my $LOG_FILE = "C:\Program Files\uptime software\uptime\scripts\snmp-trap-script\trap_to_ext_event.log";
+my $LOG_FILE = 'C:\Program Files\uptime software\uptime\scripts\snmp-trap-script\trap_to_ext_event.log';
 
 # open log file for writing
 open(LOGFILE, ">> $LOG_FILE");
